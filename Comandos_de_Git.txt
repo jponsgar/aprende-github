@@ -1,0 +1,31 @@
+Comandos de Git:
+
+Comprobamos que nos funciona Git.
+  git 
+Comprobamos versión Git.
+  git --version
+Ayuda para comandos.
+  git command -help
+Configuramos el nombre de usuario para todo el ordenador:
+  git config --global user.name "<Nombre Apellido>"
+Configuramos el correo electrónico para todo el ordenador:
+  git config --global user.email "<email@dominio.com>"
+Verificamos los valores:
+  git config --list
+Miramos los valores por separado:
+  git config user.name
+  git config user.email
+Carpeta de trabajo
+  mkdir myproject
+  cd myproject
+Inicializar un repositorio en la carpeta del proyecto.
+  git init
+Commit de todos los ficheros “en Stage”
+  git commit -m 'commit ficheros Stane'
+Commit de todos los ficheros “con y sin Stage”
+  git commit -a -m 'commit todos los ficheros’
+Ver historial del repositorio 
+  git log
+Ver estado del repositorio y cambios.
+  git status
+  git status --short
