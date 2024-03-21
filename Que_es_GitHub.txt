@@ -1,0 +1,10 @@
+Qué es GitHub:
+
+•	Git no es lo mismo que GitHub.
+•	GitHub crea herramientas que usan Git.
+•	GitHub es el host de código fuente más grande del mundo y es propiedad de Microsoft desde 2018.
+•	En este tutorial, nos centraremos en el uso de Git con GitHub.
+Aprender GitHub es una excelente manera de entrar en el mundo del desarrollo de software colaborativo y el control de versiones. Aquí hay algunos pasos para empezar:
+
+1.	Crear una cuenta en GitHub: Ve al sitio web de GitHub (https://github.com/) y crea una cuenta si aún no tienes una.
+2.	Instalar Git: GitHub utiliza Git, un sistema de control de versiones, para gestionar los repositorios. Puedes descargar e instalar Git desde el sitio web oficial de Git (https://git-scm.com/).
