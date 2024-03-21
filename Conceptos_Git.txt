@@ -1,0 +1,12 @@
+Conceptos básicos de Git:
+
+1.	Control de versiones: Git es un sistema de control de versiones distribuido que registra cambios en archivos a lo largo del tiempo. Esto te permite rastrear modificaciones, revertir a versiones anteriores y trabajar de manera colaborativa en proyectos.
+2.	Repositorio: Un repositorio de Git es un espacio donde se almacenan tus archivos y el historial de cambios. Puede ser local en tu máquina o remoto en un servidor como GitHub.
+3.	Commit: Un commit es un registro de cambios en tu repositorio. Cada commit tiene un mensaje que describe las modificaciones realizadas.
+4.	Branch (rama): Una rama en Git es una versión paralela de tu código. Puedes crear ramas para trabajar en nuevas características o correcciones de errores sin afectar la rama principal (generalmente llamada "master" o "main").
+5.	Merge (fusionar): Fusionar es combinar los cambios de una rama con otra. Por ejemplo, cuando has terminado de trabajar en una característica en una rama de características y deseas agregar esos cambios a la rama principal, puedes fusionar la rama de características en la rama principal.
+6.	Pull request (solicitud de extracción): Una solicitud de extracción es una forma de proponer cambios en un repositorio en GitHub. Permite a otros colaboradores revisar tus cambios antes de fusionarlos en la rama principal.
+7.	Clonar: Clonar un repositorio significa crear una copia local del repositorio remoto en tu máquina.
+8.	Push (empujar): Empujar es enviar tus cambios locales a un repositorio remoto en GitHub.
+9.	Pull (tirar): Tirar es recuperar cambios desde un repositorio remoto en tu repositorio local.
+10.	Conflictos de fusión: Los conflictos de fusión ocurren cuando Git no puede fusionar automáticamente cambios de diferentes ramas. Debes resolver estos conflictos manualmente.
